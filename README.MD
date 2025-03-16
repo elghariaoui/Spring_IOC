@@ -23,8 +23,8 @@
             <th>Résultat</th>               
         </tr>
         <tr>
-            <td><img src="captures/Capture_Presentation_instanciation_dynamique_1.png"></td>
-            <td><img src="captures/Capture_Presentation_instanciation_dynamique_2.png"></td>
+            <td><img src="captures/Capture_Presentation_instanciation_dynamique_1.png"/></td>
+            <td><img src="captures/Capture_Presentation_instanciation_dynamique_2.png"/></td>
         </tr>
     </tr> 
 
