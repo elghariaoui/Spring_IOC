@@ -1,0 +1,2 @@
+net.soufiane.dao.DaoImpl
+net.soufiane.metier.MetierImpl
